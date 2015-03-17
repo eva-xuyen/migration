@@ -15,3 +15,12 @@ you might need to download and install a few jars by hand, in particular, the fo
   jsse-1.0.3_02 (groupid: jsse)
   mailapi-1.3.1 (groupid: javamail)
   jms-1.1       (groupid: jms)
+  
+  
+  =============================
+  ============================
+  ============================
+  TEST
+  ===========================
+  ================================
+  =========================
